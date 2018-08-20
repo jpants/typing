@@ -26,6 +26,7 @@
 
 <div class="typing-box">
   <p id="typing-words"></p>
+  <div id="cursor"></div>
 </div>
   
 </body>
